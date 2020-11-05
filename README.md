@@ -1,4 +1,4 @@
-# Flutter Background Change
+# Flutter Background Changer
 
 A new Flutter application.
 
